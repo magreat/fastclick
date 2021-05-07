@@ -1,11 +1,19 @@
 {
-  "name": "fastclick-test",
+  "name": "fastclick-ttst",
   "version": "1.0.0",
   "description": "",
   "main": "fastclick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magreat/fastclick.git"
+  },
   "author": "beiqf",
   "license": "ISC",
-  "dependencies": {
-    "ngx-core": "0.0.2"
-  }
+  "bugs": {
+    "url": "https://github.com/magreat/fastclick/issues"
+  },
+  "homepage": "https://github.com/magreat/fastclick#readme"
 }
