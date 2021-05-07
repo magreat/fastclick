@@ -1,0 +1,11 @@
+{
+  "name": "fastclick-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fastclick.js",
+  "author": "beiqf",
+  "license": "ISC",
+  "dependencies": {
+    "ngx-core": "0.0.2"
+  }
+}
